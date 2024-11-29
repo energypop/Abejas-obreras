@@ -4,9 +4,15 @@
   --paragraph-font: "Open Sans";
 }
 
+#banner {
+  width: 100%;
+  height: auto;
+}
 .title-container {
   display: flex;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   background-color: #bb2525;
 }
 
