@@ -4,6 +4,10 @@
   --paragraph-font: "Open Sans";
 }
 
+#banner {
+  width: 100%;
+  height: auto;
+}
 .title-container {
   display: flex;
   justify-content: center;
